@@ -10,3 +10,4 @@ async def on_message(message):
         await message.channel.send('pong')
 
 client.run('OTU1MzM5OTY3MTE3MjgzMzM4.YjgPrQ.3WqYzHsgOO5QPz5trQqqPCtwDQQ')
+continue
